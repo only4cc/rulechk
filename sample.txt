@@ -1,0 +1,6 @@
+# Ejemplo:
+# 123.124.125.126
+
+ # 111.222.444.888 xp_cmdshell
+
+ # al final de nuevo xp_cmdshell
